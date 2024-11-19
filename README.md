@@ -11,3 +11,5 @@ Design a user-friendly web app for patients to search for doctors by specialty, 
 <li>Database: MySQL
 <li>Additional: API for SMS reminders, OAuth for secure login, and data encryption for secure patient information.
 </ul>
+
+## Anup Ghosh
