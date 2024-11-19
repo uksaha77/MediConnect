@@ -16,3 +16,5 @@ Design a user-friendly web app for patients to search for doctors by specialty, 
 ## How to use this component:
 Details
 
+## Pull requests
+practicing how to send pull requests
