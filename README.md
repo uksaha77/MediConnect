@@ -12,5 +12,7 @@ Design a user-friendly web app for patients to search for doctors by specialty, 
 <li>Additional: API for SMS reminders, OAuth for secure login, and data encryption for secure patient information.
 </ul>
 
+
 ## How to use this component:
+Details
 
