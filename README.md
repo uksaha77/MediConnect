@@ -28,7 +28,6 @@ User Management: Manage patient and doctor accounts.
 Role-Based Access Control: Assign specific permissions to users (patients, doctors, or admins).
 Reports: Generate reports on usage, appointment trends, and system performance.
 
-
 ## Technology
 <ul>
 <li>Frontend: React
@@ -37,6 +36,7 @@ Reports: Generate reports on usage, appointment trends, and system performance.
 <li>Additional: API for SMS reminders, OAuth for secure login, and data encryption for secure patient information.
 </ul>
 
+<<<<<<< HEAD
 ## Special Feature
 <ol>
 <li> Retrive all records
@@ -45,3 +45,5 @@ Reports: Generate reports on usage, appointment trends, and system performance.
 
 ## How to use this component:
 Details
+
+## How to setup project
