@@ -42,3 +42,7 @@ Reports: Generate reports on usage, appointment trends, and system performance.
 
 ## How to use this component:
 Details
+
+## Pull requests
+practicing how to send pull requests
+
