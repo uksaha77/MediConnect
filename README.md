@@ -13,6 +13,4 @@ Design a user-friendly web app for patients to search for doctors by specialty, 
 </ul>
 
 
-## How to use this component:
-Details
 
