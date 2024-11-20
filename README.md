@@ -1,6 +1,9 @@
 # MediConnect
 Doctor Appointment Booking System
 
+### Useful Links
+[BJIT Academy](https://bjitacademy.com)
+
 ## Requirements
 Design a user-friendly web app for patients to search for doctors by specialty, book appointments, and receive appointment reminders. Include secure patient-doctor communication and an admin panel for doctors to manage schedules.
 
