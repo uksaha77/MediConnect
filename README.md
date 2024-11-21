@@ -44,6 +44,14 @@ ORM: Sequelize or Prisma for database modeling and queries.
 SMS/Email Notifications: Twilio API or SendGrid for reminders.
 Data Encryption: OpenSSL for secure data transmission.
 Version Control: GitHub for collaborative code management.
+## Technology
+<ul>
+<li>Frontend: React
+<li>Backend: Laravel (PHP)
+<li>Database: MySQL, Redis, MongoDB
+<li>Additional: API for SMS reminders, OAuth for secure login, and data encryption for secure patient information.
+</ul>
+
 
 ## Special Feature
 <ol>
