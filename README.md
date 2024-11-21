@@ -8,7 +8,12 @@ Design a user-friendly web app for patients to search for doctors by specialty, 
 <ul>
 <li>Frontend: React
 <li>Backend: Laravel (PHP)
+<<<<<<< HEAD
+<li>Database: MySQL, MongoDB
+=======
 <li>Database: MySQL
+>>>>>>> 3adf248 (Doc(README): Added cloud name)
+<li>Cloud: AWS
 <li>Additional: API for SMS reminders, OAuth for secure login, and data encryption for secure patient information.
 </ul>
 
