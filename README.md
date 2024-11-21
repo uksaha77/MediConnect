@@ -25,6 +25,7 @@ User Management: Manage patient and doctor accounts.
 Role-Based Access Control: Assign specific permissions to users (patients, doctors, or admins).
 Reports: Generate reports on usage, appointment trends, and system performance.
 
+<<<<<<< HEAD
 ## Technology
 <ul>
 <li>Frontend: React
@@ -32,6 +33,26 @@ Reports: Generate reports on usage, appointment trends, and system performance.
 <li>Database: MySQL, Redis, MongoDB
 <li>Additional: API for SMS reminders, OAuth for secure login, and data encryption for secure patient information.
 </ul>
+=======
+
+## Development Technologies
+
+### Frontend
+Framework: React
+Styling: Bootstrap for modern and mobile-friendly design.
+
+### Backend
+Framework: Node.js with Express.
+Authentication: JSON Web Tokens (JWT) or OAuth 2.0 for secure login and session handling.
+
+### Database
+Database: MySQL
+ORM: Sequelize or Prisma for database modeling and queries.
+
+### Additional Tools & APIs
+SMS/Email Notifications: Twilio API or SendGrid for reminders.
+Data Encryption: OpenSSL for secure data transmission.
+Version Control: GitHub for collaborative code management.
 
 ## Special Feature
 <ol>
@@ -42,3 +63,7 @@ Reports: Generate reports on usage, appointment trends, and system performance.
 ## How to use this component:
 Details
 Development Year: 2024
+License
+This project is licensed under the MIT License.
+
+For more information or queries, please reach out to: medi-connect-support@example.com.
