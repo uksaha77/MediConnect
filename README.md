@@ -25,6 +25,7 @@ User Management: Manage patient and doctor accounts.
 Role-Based Access Control: Assign specific permissions to users (patients, doctors, or admins).
 Reports: Generate reports on usage, appointment trends, and system performance.
 
+<<<<<<< HEAD
 
 ## Development Technologies
 
@@ -52,8 +53,6 @@ Version Control: GitHub for collaborative code management.
 <li>Database: MySQL, Redis, MongoDB
 <li>Additional: API for SMS reminders, OAuth for secure login, and data encryption for secure patient information.
 </ul>
-=======
-
 ## Development Technologies
 
 ### Frontend
@@ -73,7 +72,6 @@ SMS/Email Notifications: Twilio API or SendGrid for reminders.
 Data Encryption: OpenSSL for secure data transmission.
 Version Control: GitHub for collaborative code management.
 
-
 ## Special Feature
 <ol>
 <li> Retrive all records
@@ -82,14 +80,13 @@ Version Control: GitHub for collaborative code management.
 
 ## How to use this component:
 Details
-
-
 License
 This project is licensed under the MIT License.
 
 License Number: 12563
 
 For more information or queries, please reach out to: medi-connect-support@example.com.
+
 Development Year: 2024
 License
 This project is licensed under the MIT License.
