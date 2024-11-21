@@ -25,12 +25,11 @@ User Management: Manage patient and doctor accounts.
 Role-Based Access Control: Assign specific permissions to users (patients, doctors, or admins).
 Reports: Generate reports on usage, appointment trends, and system performance.
 
-
 ## Technology
 <ul>
 <li>Frontend: React
 <li>Backend: Laravel (PHP)
-<li>Database: MySQL
+<li>Database: MySQL, Redis, MongoDB
 <li>Additional: API for SMS reminders, OAuth for secure login, and data encryption for secure patient information.
 </ul>
 
