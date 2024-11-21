@@ -57,4 +57,6 @@ Details
 License
 This project is licensed under the MIT License.
 
+License Number: 12563
+
 For more information or queries, please reach out to: medi-connect-support@example.com.
