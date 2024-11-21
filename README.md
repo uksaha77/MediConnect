@@ -26,6 +26,7 @@ Role-Based Access Control: Assign specific permissions to users (patients, docto
 Reports: Generate reports on usage, appointment trends, and system performance.
 
 
+
 ## Development Technologies
 
 ### Frontend
@@ -44,6 +45,7 @@ ORM: Sequelize or Prisma for database modeling and queries.
 SMS/Email Notifications: Twilio API or SendGrid for reminders.
 Data Encryption: OpenSSL for secure data transmission.
 Version Control: GitHub for collaborative code management.
+
 ## Technology
 <ul>
 <li>Frontend: React
