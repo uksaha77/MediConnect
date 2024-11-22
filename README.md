@@ -48,7 +48,7 @@ Version Control: GitHub for collaborative code management.
 
 ## Technology
 <ul>
-<li>Frontend: React
+<li>Frontend: React</li>
 <li>Backend: Laravel (PHP)
 <li>Database: MySQL, Redis, MongoDB
 <li>Additional: API for SMS reminders, OAuth for secure login, and data encryption for secure patient information.
